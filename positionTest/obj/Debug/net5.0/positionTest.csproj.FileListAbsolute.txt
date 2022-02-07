@@ -1,0 +1,16 @@
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\positionTest\positionTest\obj\Debug\net5.0\positionTest.csproj.AssemblyReference.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\positionTest\positionTest\obj\Debug\net5.0\positionTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\positionTest\positionTest\obj\Debug\net5.0\positionTest.AssemblyInfoInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\positionTest\positionTest\obj\Debug\net5.0\positionTest.AssemblyInfo.cs
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\positionTest\positionTest\obj\Debug\net5.0\positionTest.csproj.CoreCompileInputs.cache
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\positionTest\positionTest\bin\Debug\net5.0\positionTest.exe
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\positionTest\positionTest\bin\Debug\net5.0\positionTest.deps.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\positionTest\positionTest\bin\Debug\net5.0\positionTest.runtimeconfig.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\positionTest\positionTest\bin\Debug\net5.0\positionTest.runtimeconfig.dev.json
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\positionTest\positionTest\bin\Debug\net5.0\positionTest.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\positionTest\positionTest\bin\Debug\net5.0\ref\positionTest.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\positionTest\positionTest\bin\Debug\net5.0\positionTest.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\positionTest\positionTest\obj\Debug\net5.0\positionTest.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\positionTest\positionTest\obj\Debug\net5.0\ref\positionTest.dll
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\positionTest\positionTest\obj\Debug\net5.0\positionTest.pdb
+C:\Users\stigh\Documents\Modul 3\Moodle\Eget prosjekt\positionTest\positionTest\obj\Debug\net5.0\positionTest.genruntimeconfig.cache
